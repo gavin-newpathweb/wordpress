@@ -1,0 +1,3 @@
+wp core download
+wp config create --dbname='kiah-v2' --dbuser='kiah-v2' --dbpass='Jj8qB8#aPJ%yOee9hL4' --dbhost='localhost'
+wp core install --url="kiah-v2.newpathstudio.com.au"  --title="KIAH" --admin_user="kiah2admin" --admin_password="DquY42Ddm76#TNKeb" --admin_email="partha@newpath.com.au"
